@@ -1,0 +1,7 @@
+mc-26.1/libs
+mc-26.1/resources
+mc-26.1/src
+*.bak
+*.jar
+/minecraft
+node_modules
